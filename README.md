@@ -1,34 +1,19 @@
 ## 小朋友，你慢慢来
 
 
-### Markdown
+**2020101**
+傍晚我在姥爷的小院子里挖土，运了好多卡卡还没有填满这个坑呢。
+“大熙，天黑了，我们回去吧？”
+爸爸的话好扫兴啊，
+“不要，不要”，说着我又卸了一卡车土。
+“大熙，你看月亮都出来了”
+喔？我立马站了起来，我好喜欢月亮。
+咦，怎么是弯弯的月亮，那个圆圆的大饼干呢？它把自己吃了吗？
+“它有嘴巴吗？”，我有点疑惑的看着爸爸。
+爸爸迟了一下说：
+“它有嘴巴，晚上睡觉也要喝奶奶”。
+哦，我也这么想的，真让人开心，不由的咧嘴笑了一下。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lukegwo/lukegwo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+“我们可以回去了吗？”
+爸爸真是扫兴啊。
+“不要，不要，还要挖土呢”。
